@@ -28,6 +28,8 @@
 
 **Results:** The project successfully creates an engaging Rock, Paper, Scissors game with effective voice command integration and a dynamic GUI, providing a novel gaming experience. Future enhancements could focus on improving speech recognition accuracy and GUI aesthetics, as well as incorporating game analytics for enhanced user engagement.
 
-  ![image](https://github.com/user-attachments/assets/d689768c-bdd6-4ddb-b1ad-bcd9a168de8f)
+  ![image](https://github.com/user-attachments/assets/6ce1bf63-63ad-40bb-ac5d-e84c6c3659cf)
+
+  ![image](https://github.com/user-attachments/assets/689add88-ab3b-45c5-b743-79844e040dce)
 
 
